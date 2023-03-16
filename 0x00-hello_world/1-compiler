@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c your_file.c -o your_file.o
